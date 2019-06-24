@@ -1,3 +1,4 @@
 add test
 remote add
 local add
+remote two add
